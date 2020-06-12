@@ -1,0 +1,30 @@
+
+
+.box{
+  height: 100vh;
+  background: #2C3335;
+  transition: all 2s;
+}
+
+.dayLight{
+  background-color: #FFF222;
+}
+
+.content{
+  margin-left: 25%;
+}
+
+button{
+  width:80px;
+  height: 40px;
+  border-radius: 5%;
+}
+button:hover{
+  transform: translateY(-5px);
+  cursor: grabbing;
+}
+.myText{
+  padding-right: 20px;
+  justify-self: center;
+  display: inline;
+}
