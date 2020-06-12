@@ -1,6 +1,5 @@
 import React,{useState} from 'react';
 import './App.css';
-import { findByLabelText } from '@testing-library/react';
 
 function App() {
   let [count,setCount]=useState(29)
